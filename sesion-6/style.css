@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: darkblue;
+}
+
+h2{
+    font-size: 24px;
+    text-decoration: underline;
+    text-align: center;
+    color: darkblue;
+}
+
+h3{
+    font-size: 20px;
+    color: darkgreen;
+    text-align: center;
+}
+
+p{
+    line-height: 1.5;
+    font-size: 16px;
+    
+}
+.project1{
+    background-color: burlywood;
+    border: 1px;
+    margin: 10px;
+    padding: 20px;
+}
+#about{
+    background: lightgray;
+    text-align: center;
+}
+#skills{
+    background: yellow;
+    align-items: center;
+}
+
+li{
+    margin: 2px;
+    padding: 4px;
+    color: darkred;
+    text-align: center;
+}
+
+.nav-ul{
+    text-align: center;
+    display: inline-block;
+}
+
+
+
+.link{
+    text-align: center;
+}
+
+#skills h2{
+    text-align: center;
+}
+
+#skills{
+    text-align: center;
+}
+
+ul.Myul {
+    display: inline-block;
+    text-align: center;
+  }
+  img{
+    border: 2px solid black;
+    border-radius: 50%;
+  }
+
+  a{
+    color: orange;
+    text-decoration: none;
+  }
+  
+  .link a:hover{
+    text-decoration: underline;
+  }
+
+  footer{
+    padding: 2px;
+    margin: 20px;
+    background-color: lightgray;
+  }
+  
+  
+  
+
+
